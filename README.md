@@ -1,5 +1,9 @@
-***MTPong
+MTPong
+======
+
+##Description
 
 Abstract Multitouch Pong game, written in python
 
-Status: Very alpha
+##Status
+Very alpha
